@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @conmawa
 - 👀 I’m interested in computers and programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and a little php
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
